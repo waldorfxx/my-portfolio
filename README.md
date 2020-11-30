@@ -39,7 +39,8 @@ The purpose when human watching the gameplay, they cannot knows that it is compu
 * CNN_imgclassification
 * MNIST_Image_Classification
 
-* ### Other Publication
+
+## Other Publication
 
    * Jumneanbun, Thanat, Sunee Sae-Lao, Pujana Paliyawan, Ruck Thawonmas, Kingkarn Sookhanaphibarn, and Worawat Choensawat. "Rap-Style Comment Generation to Entertain Game Live Streaming." In 2020 IEEE Conference on Games (CoG), pp. 706-707. IEEE, 2020.
    * Xu, Jingdi, Yuuki Okido, Sunee Sae-Lao, Pujana Paliyawan, Ruck Thawonmas, and Tomohiro Harada. "Promoting Emotional Well-Being with Angry-Birds-like Gameplay on Pixel Image Levels." In 2019 IEEE 7th International Conference on Serious Games and Applications for Health (SeGAH), pp. 1-4. IEEE, 2019.
