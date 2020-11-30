@@ -30,14 +30,14 @@ This project using Quadratic Function to make Artificial Intelligence Agent whic
 The purpose when human watching the gameplay, they cannot knows that it is computer who playing it. 
 
 ### Natural Language Processing
-> Cipher
-> Decrypting_Ciphers
-> Spam_Detector_2
+* Cipher
+* Decrypting_Ciphers
+* Spam_Detector_2
 
 ### Image Processing
-> CARS196_Sub
-> CNN_imgclassification
-> MNIST_Image_Classification
+* CARS196_Sub
+* CNN_imgclassification
+* MNIST_Image_Classification
 
 * ### Other Publication
 
